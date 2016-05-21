@@ -27,23 +27,6 @@ A curated list of software and resources to create music.
 [Organelle]: https://www.critterandguitari.com/products/organelle
 
 
-## Online
-
-- [Websynths]
-- [Looplabs] - Cloud based music studio.
-- [Jamwithchrome] - Play music live with your friends online.
-- [Loopjs] - Live Electronic Music Performance Software.
-- [Lissajous] - A tool for programmatic audio performance in the browser.
-- [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
-
-[Websynths]: http://websynths.com
-[Looplabs]: https://looplabs.com
-[Jamwithchrome]: http://jamwithchrome.com
-[Loopjs]: http://loopjs.com
-[Lissajous]: https://github.com/kylestetz/lissajous
-[Keithwhor.com/music]: http://keithwhor.com/music/
-
-
 ## Libraries
 
 - [Alda] - A music programming language for musicians.
@@ -79,7 +62,21 @@ A curated list of software and resources to create music.
 
 ## Webapps
 
-- [Arpeggiator](http://arpeggiator.desandro.com)
+- [Arpeggiator] - Web Audio Arpeggiator.
+- [Websynths] - Free browser-based microtonal midi instrument.
+- [Looplabs] - Cloud based music studio.
+- [Jamwithchrome] - Play music live with your friends online.
+- [Loopjs] - Live Electronic Music Performance Software.
+- [Lissajous] - A tool for programmatic audio performance in the browser.
+- [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
+
+[Arpeggiator]: http://arpeggiator.desandro.com
+[Websynths]: http://websynths.com
+[Looplabs]: https://looplabs.com
+[Jamwithchrome]: http://jamwithchrome.com
+[Loopjs]: http://loopjs.com
+[Lissajous]: https://github.com/kylestetz/lissajous
+[Keithwhor.com/music]: http://keithwhor.com/music/
 
 
 ## Guitar
