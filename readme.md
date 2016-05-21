@@ -20,6 +20,7 @@ A curated list of software and resources to create music.
 [Reaper]: http://reaper.fm
 
 
+
 ## Hardware
 
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
@@ -30,7 +31,7 @@ A curated list of software and resources to create music.
 ## Libraries
 
 - [Alda] - A music programming language for musicians.
-- [aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
+- [Aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Sweet, sugary goodness for looping and sampling with the Web Audio API.
 - [Node Speaker] - Output PCM audio data to the speakers.
@@ -39,13 +40,13 @@ A curated list of software and resources to create music.
 - [Tuna] - An audio effects library for the Web Audio API.
 
 [Alda]: https://github.com/alda-lang/alda
-[aubio]: https://aubio.org
-[Tuna]: https://github.com/Theodeus/tuna
-[Tone.js]: https://github.com/Tonejs/Tone.js
+[Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
-[Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Blip]: http://jshanley.github.io/blip
+[Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Tonal]: https://github.com/danigb/tonal
+[Tone.js]: https://github.com/Tonejs/Tone.js
+[Tuna]: https://github.com/Theodeus/tuna
 
 
 ## Knowledge
@@ -57,7 +58,9 @@ A curated list of software and resources to create music.
 
 ## Apps
 
-- [Auxy](http://auxy.co) - Modern instruments for mobile creators.
+- [Auxy] - Modern instruments for mobile creators.
+
+[Auxy]: http://auxy.co
 
 
 ## Webapps
@@ -83,14 +86,14 @@ A curated list of software and resources to create music.
 
 ## Guitar
 
+- [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
 - [Fretboard]
 - [UkeGeeks] - Creates fingering diagrams by reading plain text or ChordPro ukulele songs.
-- [Chordata] - A dummy chordbook for mandolin, ukulele and guitar.
 - [UkuleleSongbook]
 - [Ukutabs] - source for ukulele tabs, chords, tips, tools, guides
 
+[Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
-[Chordata]: https://github.com/starenka/chordata
 [UkuleleSongbook]: https://github.com/casertap/UkuleleSongbook
 [Ukutabs]: https://ukutabs.com
