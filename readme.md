@@ -39,13 +39,15 @@ A curated list of software and resources to create music.
 
 ## Libraries
 
-- [Tuna] - An audio effects library for the Web Audio API.
-- [Tone.js] - A Web Audio framework for making interactive music in the browser.
+- [aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
-- [Node Speaker] - Output PCM audio data to the speakers
 - [Blip] - Sweet, sugary goodness for looping and sampling with the Web Audio API.
-- [Tonal]
+- [Node Speaker] - Output PCM audio data to the speakers.
+- [Tonal] - Functional music theory library.
+- [Tone.js] - A Web Audio framework for making interactive music in the browser.
+- [Tuna] - An audio effects library for the Web Audio API.
 
+[aubio]: https://aubio.org
 [Tuna]: https://github.com/Theodeus/tuna
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Band.js]: https://github.com/meenie/band.js
