@@ -39,6 +39,7 @@ A curated list of software and resources to create music.
 
 ## Libraries
 
+- [Alda] - A music programming language for musicians.
 - [aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Sweet, sugary goodness for looping and sampling with the Web Audio API.
@@ -47,6 +48,7 @@ A curated list of software and resources to create music.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
 
+[Alda]: https://github.com/alda-lang/alda
 [aubio]: https://aubio.org
 [Tuna]: https://github.com/Theodeus/tuna
 [Tone.js]: https://github.com/Tonejs/Tone.js
