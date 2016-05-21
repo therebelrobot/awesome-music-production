@@ -24,7 +24,7 @@ A curated list of software and resources to create music.
 
 - [Organelle] - Intuitive controls with a powerful and flexible sound engine.
 
-[Organelle]: https://www.critterandguitari.com/products/organelle
+[Organelle]: https://critterandguitari.com/products/organelle
 
 
 ## Libraries
@@ -63,20 +63,22 @@ A curated list of software and resources to create music.
 ## Webapps
 
 - [Arpeggiator] - Web Audio Arpeggiator.
-- [Websynths] - Free browser-based microtonal midi instrument.
-- [Looplabs] - Cloud based music studio.
 - [Jamwithchrome] - Play music live with your friends online.
-- [Loopjs] - Live Electronic Music Performance Software.
-- [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
+- [Klangmeister] - Live coding environment for the browser.
+- [Lissajous] - A tool for programmatic audio performance in the browser.
+- [Loopjs] - Live Electronic Music Performance Software.
+- [Looplabs] - Cloud based music studio.
+- [Websynths] - Free browser-based microtonal midi instrument.
 
 [Arpeggiator]: http://arpeggiator.desandro.com
-[Websynths]: http://websynths.com
-[Looplabs]: https://looplabs.com
 [Jamwithchrome]: http://jamwithchrome.com
-[Loopjs]: http://loopjs.com
+[Keithwhor.com/music]: http://keithwhor.com/music
+[Klangmeister]: http://ctford.github.io/klangmeister
 [Lissajous]: https://github.com/kylestetz/lissajous
-[Keithwhor.com/music]: http://keithwhor.com/music/
+[Loopjs]: http://loopjs.com
+[Looplabs]: https://looplabs.com
+[Websynths]: http://websynths.com
 
 
 ## Guitar
