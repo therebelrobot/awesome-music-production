@@ -20,6 +20,13 @@ A curated list of software and resources to create music.
 [Reaper]: http://reaper.fm
 
 
+## Hardware
+
+- [Organelle] - Intuitive controls with a powerful and flexible sound engine.
+
+[Organelle]: https://www.critterandguitari.com/products/organelle
+
+
 ## Online
 
 - [Websynths]
