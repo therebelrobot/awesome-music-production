@@ -36,6 +36,7 @@ A curated list of software and resources to create music.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Node Speaker] - Output PCM audio data to the speakers.
+- [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
@@ -46,6 +47,7 @@ A curated list of software and resources to create music.
 [Blip]: http://jshanley.github.io/blip
 [Leipzig]: https://github.com/ctford/leipzig
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
+[Overtone]: https://github.com/overtone/overtone
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
