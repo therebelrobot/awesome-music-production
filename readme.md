@@ -33,7 +33,8 @@ A curated list of software and resources to create music.
 - [Alda] - A music programming language for musicians.
 - [Aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
-- [Blip] - Sweet, sugary goodness for looping and sampling with the Web Audio API.
+- [Blip] - Looping and sampling with the Web Audio API.
+- [Leipzig] - Composition library for Clojure and Clojurescript.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
@@ -43,6 +44,7 @@ A curated list of software and resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
+[Leipzig]: https://github.com/ctford/leipzig
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
