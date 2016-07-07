@@ -70,6 +70,7 @@ A curated list of software and resources to create music.
 ## Webapps
 
 - [Arpeggiator] - Web Audio Arpeggiator.
+- [Djenerator] - A metal breakdown generator.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klangmeister] - Live coding environment for the browser.
@@ -79,6 +80,7 @@ A curated list of software and resources to create music.
 - [Websynths] - Free browser-based microtonal midi instrument.
 
 [Arpeggiator]: http://arpeggiator.desandro.com
+[Djenerator]: http://djen.co
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
 [Klangmeister]: http://ctford.github.io/klangmeister
