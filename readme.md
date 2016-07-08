@@ -28,13 +28,14 @@ A curated list of software and resources to create music.
 [Organelle]: https://critterandguitari.com/products/organelle
 
 
-## Libraries
+## Software Libraries
 
 - [Alda] - A music programming language for musicians.
 - [Aubio] - Segmentation, pitch detection, tapping the beat & producing midi streams.
 - [Band.js] - Music composer interface for the Web Audio API.
 - [Blip] - Looping and sampling with the Web Audio API.
 - [Leipzig] - Composition library for Clojure and Clojurescript.
+- [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
 - [Tonal] - Functional music theory library.
@@ -51,7 +52,7 @@ A curated list of software and resources to create music.
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
-
+[Magenta]: https://magenta.tensorflow.org
 
 ## Knowledge
 
