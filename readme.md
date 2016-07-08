@@ -77,6 +77,7 @@ A curated list of software and resources to create music.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
+- [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [Websynths] - Free browser-based microtonal midi instrument.
 
 [Arpeggiator]: http://arpeggiator.desandro.com
@@ -87,6 +88,7 @@ A curated list of software and resources to create music.
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
+[Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [Websynths]: http://websynths.com
 
 
