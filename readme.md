@@ -38,6 +38,7 @@ A curated list of software and resources to create music.
 - [Magenta] - Music and Art Generation with Machine Intelligence.
 - [Node Speaker] - Output PCM audio data to the speakers.
 - [Overtone] - Open Source toolkit for designing synthesizers and collaborating with music.
+- [Sharp11] - Music theorization and improvisation engine.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
 - [Tuna] - An audio effects library for the Web Audio API.
@@ -47,12 +48,14 @@ A curated list of software and resources to create music.
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
 [Leipzig]: https://github.com/ctford/leipzig
+[Magenta]: https://magenta.tensorflow.org
 [Node Speaker]: https://github.com/TooTallNate/node-speaker
 [Overtone]: https://github.com/overtone/overtone
+[Sharp11]: https://github.com/jsrmath/sharp11
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
-[Magenta]: https://magenta.tensorflow.org
+
 
 ## Knowledge
 
