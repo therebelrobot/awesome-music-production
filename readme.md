@@ -81,6 +81,9 @@ A curated list of software and resources to create music.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
+- [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
+- [Repeater Orchestra] - An orchestra of repeaters which repeat the conductor.
+- [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [Websynths] - Free browser-based microtonal midi instrument.
 - [Qwerkey] - Keyboard tonnetz.
@@ -93,6 +96,9 @@ A curated list of software and resources to create music.
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
+[Musical Chord Progression Arpeggiator]: https://codepen.io/jakealbaugh/pen/qNrZyw
+[Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
+[Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [Websynths]: http://websynths.com
 [Qwerkey]: http://some1else.github.io/qwerkey
