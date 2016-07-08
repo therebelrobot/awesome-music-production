@@ -80,6 +80,7 @@ A curated list of software and resources to create music.
 - [Looplabs] - Cloud based music studio.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
 - [Websynths] - Free browser-based microtonal midi instrument.
+- [Qwerkey] - Keyboard tonnetz.
 
 [Arpeggiator]: http://arpeggiator.desandro.com
 [Djenerator]: http://djen.co
@@ -91,6 +92,7 @@ A curated list of software and resources to create music.
 [Looplabs]: https://looplabs.com
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
 [Websynths]: http://websynths.com
+[Qwerkey]: http://some1else.github.io/qwerkey
 
 
 ## Guitar
